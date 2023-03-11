@@ -22,7 +22,7 @@ I love creating modern user-friendly interfaces, where I am incredibly strong at
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" />
 
 
-###
+##
 
 <details>
  <summary><h3>👨‍💻 Outmans's Coding Journey</h3></summary>
