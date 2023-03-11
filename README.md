@@ -1,6 +1,6 @@
 ### Hi, my name is Outman 👋
 
-<hr style="border: 1px solid black">
+<hr style="border: 0.3px solid blue;">
 
 
 **`A web developer who bleeds for creating modern UI ⚡`**
