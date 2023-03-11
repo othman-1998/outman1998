@@ -22,9 +22,9 @@ I love creating modern user-friendly interfaces, where I am incredibly strong at
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" />
 
 
-##
+#
 
-Hi, I am Outman. A web developer who is currently into React and JavaScript. 
-
-I love creating modern user-friendly interfaces, where I am incredibly strong at developing frontend from scratch and also have good experience with styling frameworks with Tailwind as my favourite. All coding projects are built from the ground up, and many more to come.
+<details>
+<summary><h3>👨‍💻 Outmans's Journey</h3></summary>
+I started my coding journey as a multimedia student with a passion for...
 
