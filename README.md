@@ -5,7 +5,7 @@
 
 Hi, I am Outman. A web developer who is currently into React and JavaScript. 
 
-I love creating modern user-friendly interfaces, where I am incredibly strong at developing frontend from scratch and also have good experience with styling frameworks with Tailwind as my favourite. All coding projects are built from the ground up, from planning and designing to solving real world problems. 
+I love creating modern user-friendly interfaces, where I am incredibly strong at developing frontend from scratch and also have good experience with styling frameworks with Tailwind as my favourite. All coding projects are built from the ground up, and many more to come.
 
 #
 
