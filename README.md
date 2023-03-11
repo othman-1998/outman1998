@@ -1,5 +1,7 @@
 ### Hi, my name is Outman 👋
 
+<hr>
+
 
 **`A web developer who bleeds for creating modern UI ⚡`**
 
