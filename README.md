@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi, my name is Outman 👋
 
-<!--
-**outman1998/outman1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+**`A web developer who bleeds for frontend`**
 
 Here are some ideas to get you started:
 
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
